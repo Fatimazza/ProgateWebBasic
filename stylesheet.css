@@ -2,6 +2,10 @@ body {
   font-family: "Avenir Next"
 }
 
+li {
+  list-style: none;
+}
+
 /* Add class selector: Header */
 .header {
   background-color: #f7f2b4;
