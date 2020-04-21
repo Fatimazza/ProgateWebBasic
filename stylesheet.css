@@ -31,8 +31,9 @@ li {
 
 /* Add class selector: Footer */
 .footer {
-  background-color:#ceccf3;
-   height: 270px;
+  background-color: #2f5167;
+  color: #fff;
+  height: 270px;
 }
 
 .footer-logo {
