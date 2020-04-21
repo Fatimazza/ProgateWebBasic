@@ -5,14 +5,17 @@ body {
 /* Add class selector: Header */
 .header {
   background-color: #f7f2b4;
+   height: 90px;
 }
 
 /* Add class selector: Main */
 .main {
   background-color: #bdf7f1;
+  height: 600px;
 }
 
 /* Add class selector: Footer */
 .footer {
   background-color:#ceccf3;
+   height: 270px;
 }
