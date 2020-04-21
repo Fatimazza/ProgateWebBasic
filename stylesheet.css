@@ -10,7 +10,12 @@ li {
 /* Add class selector: Header */
 .header {
   background-color: #f7f2b4;
-   height: 90px;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
 }
 
 /* Add class selector: Main */
