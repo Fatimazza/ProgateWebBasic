@@ -34,3 +34,12 @@ li {
   background-color:#ceccf3;
    height: 270px;
 }
+
+.footer-logo {
+  font-size: 32px;
+  float: left;
+}
+
+.footer-list {
+  float: right;
+}
