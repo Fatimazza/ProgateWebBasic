@@ -5,6 +5,7 @@ body {
 li {
   list-style: none;
   float: left;
+  padding: 33px 20px;
 }
 
 /* Add class selector: Header */
@@ -16,6 +17,7 @@ li {
 .header-logo {
   float: left;
   font-size: 36px;
+  padding: 20px 40px;
 }
 
 /* Add class selector: Main */
