@@ -36,6 +36,10 @@ li {
   font-size: 60px;
 }
 
+.copy-container span {
+  color: #ff4a4a;
+}
+
 /* Add class selector: Footer */
 .footer {
   background-color: #2f5167;
