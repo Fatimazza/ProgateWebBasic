@@ -41,6 +41,10 @@ li {
   color: #ff4a4a;
 }
 
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+}
+
 /* Add class selector: Footer */
 .footer {
   background-color: #2f5167;
