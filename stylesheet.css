@@ -67,6 +67,11 @@ li {
   padding-top: 100px;
 }
 
+.contact-submit {
+  background-color: #dee7ec;
+  font: #889eab;
+}
+
 /* Add class selector: Footer */
 .footer {
   background-color: #2f5167;
