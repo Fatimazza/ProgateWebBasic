@@ -29,6 +29,14 @@ li {
   height: 600px;
 }
 
+.copy-container h1 {
+  font-size: 140px;
+}
+
+.copy-container h2 {
+  font-size: 60px;
+}
+
 /* Add class selector: Footer */
 .footer {
   background-color: #2f5167;
