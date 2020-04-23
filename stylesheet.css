@@ -45,6 +45,10 @@ li {
   border-bottom: 2px solid #dee7ec;
 }
 
+.contents-item {
+  float: left;
+}
+
 /* Add class selector: Footer */
 .footer {
   background-color: #2f5167;
