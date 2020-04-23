@@ -41,6 +41,11 @@ li {
   color: #ff4a4a;
 }
 
+.contents {
+  height: 500px;
+  margin-top: 100px;
+}
+
 .section-title {
   border-bottom: 2px solid #dee7ec;
 }
