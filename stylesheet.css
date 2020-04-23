@@ -63,6 +63,10 @@ li {
   top-margin: 30px;
 }
 
+.contact-form {
+  padding-top: 100px;
+}
+
 /* Add class selector: Footer */
 .footer {
   background-color: #2f5167;
